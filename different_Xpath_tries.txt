@@ -1,0 +1,54 @@
+m1@mailinator.com/Pass@4321$
+
+/html/body/div/div[3]/div[3]/div[3]/div[3]
+
+//div[@id='row-footer-currentBoard-1160391072-1160391072_new_group--focus-name-withadditem']//input[@placeholder='+ Add project']
+
+/html[1]/body[1]/div[1]/div[3]/div[3]/div[3]/div[3]/div[1]/div[1]/div[2]/div[4]/div[2]/div[1]/div[1]/div[8]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/input[1]
+
+
+//div[@id='row-pulse---1173980113-notplaceholder']//div[@class='ds-menu-button-container']
+//div[@id='row-pulse---1174151213-notplaceholder']//i[contains(@class,'icon ellipsis icon-v2-ellipsis')]
+
+id = row-pulse---1174151213-notplaceholder, class = pulse-component pulseComponent--dbO5k single-item-height grid-pulse with-menu can-edit
+
+row-pulse---1174151213-notplaceholder-focus-person-
+grid-cells-row-component-wrapper
+row-pulse---1174152543-notplaceholder-focus-person-
+row-pulse---1174152543-notplaceholder-focus-status-
+row-pulse---1174152543-notplaceholder-focus-date4-
+
+//td[@class='CalendarDay CalendarDay--valid']//button[@class='CalendarDay__button' and @tabindex = '-1']
+
+//button[@aria-label='Thursday, March 30, 2023']
+
+//div[@class = 'pulse-component-wrapper board-id-1160391072 pulseWrapper--ywR3E last-pulse lastPulse--JhvJJ pulse-new-layout']//div[starts-with(@id,'row-pulse')]
+
+pulse-component-wrapper board-id-1160391072 pulseWrapper--ywR3E last-pulse lastPulse--JhvJJ pulse-new-layout
+
+//span[starts-with(@class,'indigo-text descfont')]
+//div[starts-with(@class, 'pulse-component-wrapper board-id-1160391072 pulseWrapper--ywR3E') and contains(@class, 'last-pulse lastPulse--JhvJJ') 
+
+//div[@class = 'last-pulse lastPulse--JhvJJ']//div[starts-with(@id,'row-pulse)]
+
+print([my_elem.text for my_elem in driver.find_elements(By.XPATH, "//div[@id='WineDetailContent']//span[@class='indigo-text descfont']")])
+
+print([my_elem.text for my_elem in driver.find_elements(By.XPATH, "//div[@class='last-pulse lastPulse--JhvJJ']//div[@id='indigo-text descfont']")])
+
+
+//div[@id='row-pulse---1174152543-notplaceholder']//div(@id,'irow-pulse---1174152543-notplaceholder-focus-person-')]
+
+//div[@id='row-footer-currentBoard-1160391072-1160391072_new_group--focus-name-withadditem']//input[@placeholder='+ Add project']
+//div[@id='row-footer-currentBoard-1160391072-1160391072_new_group-focus-name-withadditem']//input[@placeholder='+ Add project']
+//div[@id='row-footer-currentBoard-1160391072-1160391072_new_group--focus-name-withadditem']//input[@placeholder='+ Add project']
+
+div[id='row-footer-currentBoard-1160391072-1160391072_new_group--focus-name-withadditem'] input[placeholder='+ Add project']
+//body/div[@id='application']/div[@id='application-layers']/div[@id='first-level']/div[@id='first-level-content-wrapper']/div[@id='first-level-content']/div[@id='board-init-component-id']/div[contains(@class,'board-layout-with-keyboard-navigation-component')]/div[@id='board-wrapper-first-level-content']/div[contains(@class,'dialog-node')]/div[contains(@role,'dialog')]/div[contains(@class,'ds-dialog-content-component bottom edge-bottom')]/div[contains(@class,'ds-menu-dialog ds-menu-md cell-menu-component')]/div[contains(@class,'ds-menu-inner')]/div[1]
+
+//button[@aria-label='Move backward to switch to the previous month']//div[@class='ds-date-navigation-item-component']//*[name()='svg']
+
+
+
+URL: https://pass4321.monday.com/boards/1160391072
+user: m1@mailinator.com
+pass: Pass@4321$
