@@ -1,4 +1,4 @@
-m1@mailinator.com/Pass@4321$
+Xpath notes:
 
 /html/body/div/div[3]/div[3]/div[3]/div[3]
 
@@ -46,9 +46,3 @@ div[id='row-footer-currentBoard-1160391072-1160391072_new_group--focus-name-with
 //body/div[@id='application']/div[@id='application-layers']/div[@id='first-level']/div[@id='first-level-content-wrapper']/div[@id='first-level-content']/div[@id='board-init-component-id']/div[contains(@class,'board-layout-with-keyboard-navigation-component')]/div[@id='board-wrapper-first-level-content']/div[contains(@class,'dialog-node')]/div[contains(@role,'dialog')]/div[contains(@class,'ds-dialog-content-component bottom edge-bottom')]/div[contains(@class,'ds-menu-dialog ds-menu-md cell-menu-component')]/div[contains(@class,'ds-menu-inner')]/div[1]
 
 //button[@aria-label='Move backward to switch to the previous month']//div[@class='ds-date-navigation-item-component']//*[name()='svg']
-
-
-
-URL: https://pass4321.monday.com/boards/1160391072
-user: m1@mailinator.com
-pass: Pass@4321$
